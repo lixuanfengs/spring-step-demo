@@ -1,0 +1,17 @@
+package com.cactusli.springframework;
+
+/**
+ * Created by cactusli on 2022/11/30 9:47
+ */
+public class BeanDefinition {
+    private Object bean;
+
+    public BeanDefinition(Object bean) {
+        this.bean = bean;
+    }
+
+    public Object getBean() {
+        return bean;
+    }
+
+}
