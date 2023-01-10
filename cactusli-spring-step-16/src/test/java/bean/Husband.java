@@ -1,4 +1,4 @@
-package cn.bugstack.springframework.test.bean;
+package bean;
 
 public class Husband {
 

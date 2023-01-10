@@ -1,6 +1,6 @@
-package cn.bugstack.springframework.test.bean;
+package bean;
 
-import cn.bugstack.springframework.beans.factory.FactoryBean;
+import com.cactusli.springframework.beans.factory.FactoryBean;
 
 import java.lang.reflect.Proxy;
 

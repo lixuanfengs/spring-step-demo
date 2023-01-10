@@ -1,6 +1,6 @@
-package cn.bugstack.springframework.test.bean;
+package bean;
 
-import cn.bugstack.springframework.aop.MethodBeforeAdvice;
+import com.cactusli.springframework.aop.MethodBeforeAdvice;
 
 import java.lang.reflect.Method;
 
