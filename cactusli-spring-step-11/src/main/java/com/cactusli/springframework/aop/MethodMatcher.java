@@ -1,0 +1,4 @@
+package com.cactusli.springframework.aop;/** 
+ * Created by cactusli on 2022/12/21 10:36
+*/  public interface MethodMatcher {
+}
