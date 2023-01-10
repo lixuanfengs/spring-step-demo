@@ -1,4 +1,4 @@
-package cn.bugstack.springframework.test.bean;
+package bean;
 
 import java.util.Random;
 
@@ -15,7 +15,7 @@ public class UserService implements IUserService {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        return "小傅哥，100001，深圳，" + token;
+        return "仙人球，100001，北京，" + token;
     }
 
     public String register(String userName) {
