@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <bean class="bean.event.ContextRefreshedEventListener"/>
+
+    <bean class="bean.event.CustomEventListener"/>
+
+    <bean class="bean.event.ContextClosedEventListener"/>
+
+</beans>
